@@ -1,3 +1,10 @@
 name: Maxlab
 markdown: redcarpet
 pygments: true
+title : Maxlab
+
+author :
+  name : Maxime Warnier
+  email : blah@email.test
+  github : maxdow
+  twitter : maxdow
